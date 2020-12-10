@@ -60,21 +60,11 @@ button{
 	border: solid;
 	border-color: #FFFFFF;
 	color: #FFFFFF;
-	padding: 1.5%;
+	padding: 1em;
 	font-weight: 500;
 	cursor: pointer;
 	float: inline;
-}
-.sway {
-	float: none;
-	width: auto;
-	margin-left: 13em;
-	margin-right: 1em;
-}
-
-.contact {
-	float: none;
-	width: auto;
+	margin:1em 1em 1em 1em;
 }
 
 button:hover {
@@ -194,17 +184,6 @@ div {
 		float: none;
 		margin: .5em;
 		width: 85%;
-	}
-
-	.sway {
-		float: none;
-		margin: 0 0 2% 0;
-
-	}
-
-	.contact {
-		float: none;
-		margin: 0 0 2% 0;
 	}
 
 	button {
