@@ -125,14 +125,6 @@ div {
 		width: 56%;
 	}
 
-	h1 {
-		font-size: 200%;
-	}
-
-	h2 {
-		font-size: 100%;
-	}
-
 	div {
 		margin: 5em 10em 10em 5em;
 	}
@@ -141,6 +133,12 @@ div {
 		margin-left: 0;
 	}
 	
+}
+
+@media only screen and (max-width: 990px) {
+	section {
+		width: 50%;
+	}
 }
 
 @media only screen and (max-width: 856px) {
@@ -178,8 +176,7 @@ div {
 	
 }
 
-@media only screen and (max-width: 414px) {
-
+@media only screen and (max-width: 644px) {
 	h1 {
 		font-size: 200%;
 	}
@@ -218,6 +215,7 @@ div {
 	div {
 		margin: 1.5em .5em .5em .5em;
 	}
+
 }
 
 
