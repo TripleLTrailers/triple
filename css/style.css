@@ -47,9 +47,8 @@ img {
 	object-fit: cover;
 	float: left;
 	overflow: visible;
-	width: 44%;
-	margin-left: -1em;
-	margin-top: -1em;
+	width: 39%;
+	margin: 1.5em;
 }
 
 button{
@@ -118,7 +117,7 @@ div {
 
 @media only screen and (max-width: 1365px) {
 	img {
-		width: 40%;
+		width: 39%;
 	}
 
 	section {
@@ -136,6 +135,10 @@ div {
 
 	div {
 		margin: 5em 10em 10em 5em;
+	}
+
+	.sway {
+		margin-left: 0;
 	}
 	
 }
