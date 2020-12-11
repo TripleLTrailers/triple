@@ -125,7 +125,7 @@ a {
 	}
 }
 
-@media only screen and (max-width: 1302px) {
+@media only screen and (max-width: 1313px) {
 	section {
 		width: 58%;
 		padding-top: 0;
@@ -141,7 +141,7 @@ a {
 	}
 }
 
-@media only screen and (max-width: 1277px) {
+@media only screen and (max-width: 1292px) {
 	h1 {
 		font-size: 300%;
 	}
@@ -163,7 +163,7 @@ a {
 	}
 }
 
-@media only screen and (max-width: 1163px) {
+@media only screen and (max-width: 1278px) {
 	a {
 		font-size: .9em;
 	}
