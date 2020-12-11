@@ -96,6 +96,11 @@ div {
 	margin: 0em 2em 2em 2em;
 }
 
+
+.products {
+	padding: 1em;
+}
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
