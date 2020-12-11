@@ -24,11 +24,8 @@ h2 {
 }
 
 p {
-	color: #FFFFFF;
-	font-family: "Josefin Sans", serif;
-	letter-spacing: .1em;
-	font-size: 100%;
 	text-align: center;
+	margin: 0em 5em 0em 5em;
 }
 
 header {
