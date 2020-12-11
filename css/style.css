@@ -51,25 +51,24 @@ img {
 	margin: 1.5em;
 }
 
-button{
-	border-radius: 3em;
-	font-family: "Montserrat", sans-serif;
-	font-size: 1em;
-	background-color: transparent;
-	text-align: center;
-	border: solid;
-	border-color: #FFFFFF;
-	color: #FFFFFF;
-	padding: 1em;
-	font-weight: 500;
-	cursor: pointer;
-	float: inline;
-	margin:1em 1em 1em 1em;
+button {
+    border-radius: 3em;
+    background-color: transparent;
+    text-align: center;
+    border: solid;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    padding: 1em;
+    font-weight: 500;
+    cursor: pointer;
+    margin: 1em 1em 1em 1em;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1em;
 }
 
 button:hover {
 	background-color: #FFFFFF;
-	color: #303D50
+	color: #303d50;
 }
 
 h3 {
