@@ -27,11 +27,13 @@ div {
 	display: block;
 	text-align: center;
 	float: right;
+	width: 75%;
 }
 
 p {
 	display: block;
 	float: left;
+	width: 25%;
 }
 
 header {
