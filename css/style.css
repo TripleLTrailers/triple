@@ -24,8 +24,14 @@ h2 {
 }
 
 div {
+	display: block;
 	text-align: center;
-	margin: 0em 0em 0em 10em;
+	float: right;
+}
+
+p {
+	display: block;
+	float: left;
 }
 
 header {
