@@ -28,6 +28,7 @@ div {
 	text-align: center;
 	float: right;
 	width: 84%;
+	overflow: hidden;
 }
 
 p {
@@ -184,6 +185,10 @@ a {
 
 	h1 {
 		font-size: 285%;
+	}
+
+	div {
+		float: none;
 	}
 
 }
