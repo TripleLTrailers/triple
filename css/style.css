@@ -114,6 +114,14 @@ a {
 	section {
 		width: 57%;
 	}
+
+	div {
+		width: 88%;
+	}
+
+	p {
+		width: 0%;
+	}
 }
 
 @media only screen and (max-width: 1302px) {
@@ -125,6 +133,10 @@ a {
 
 	img {
 		width: 37%;
+	}
+
+	div {
+		width: 90%;
 	}
 }
 
@@ -144,11 +156,19 @@ a {
 	button {
 		margin: .5em;
 	}
+
+	div {
+		width: 95%;
+	}
 }
 
 @media only screen and (max-width: 1163px) {
 	a {
 		font-size: .9em;
+	}
+
+	div {
+		width: 100%;
 	}
 
 }
@@ -164,14 +184,6 @@ a {
 
 	h1 {
 		font-size: 285%;
-	}
-
-	div {
-		width: 88%;
-	}
-
-	p {
-		width: 0%;
 	}
 
 }
@@ -198,10 +210,6 @@ a {
 	}
 
 	article {
-		width: 100%;
-	}
-
-	div {
 		width: 100%;
 	}
 
