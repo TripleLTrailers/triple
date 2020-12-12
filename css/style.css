@@ -210,7 +210,6 @@ a {
 	img {
 		float: none;
 		width: 70%;
-		margin-left: 5em;
 		padding-top: 1em;
 	}
 
@@ -220,25 +219,25 @@ a {
 
 }
 
-@media only screen and (max-width: 688px) {
+@media only screen and (max-width: 702px) {
 	article {
 		width:55%;
+	}
+
+	header {
+		padding-left: 2em;
 	}
 }
 
 
-@media only screen and (max-width: 629px) {
+@media only screen and (max-width: 664px) {
 
 	article {
 		width: 61%;
 	}
 }
 
-@media only screen and (max-width: 500px) {
-
-	header {
-		padding-left: 2em;
-	}
+@media only screen and (max-width: 621px) {
 
 	article {
 		width: 92%;
